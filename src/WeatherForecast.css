@@ -1,0 +1,15 @@
+.WeatherForecast{
+    text-align: center;
+    background-color:#aeccee;
+      border-radius:8px;
+      justify-content:flex-start;
+      box-shadow: #658aee 4px 4px 8px;
+      margin-bottom: 10px;
+      width:100%;
+    }
+
+    
+    .WeatherForecast-temperature-min{
+    opacity:0.6;
+    margin-left: 5px;
+    }
