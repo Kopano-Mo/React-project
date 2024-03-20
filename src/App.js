@@ -10,8 +10,8 @@ export default function App() {
       < footer>
       This project was coded by {" "}
         <a href="https://github.com/Kopano-Mo" target="_blank" rel="noopener noreferrer">kopano molapo</a> and is
-        <a href="https://github.com/Kopano-Mo/DRAMATIC-CODE" target="_blank" rel="noopener noreferrer"> open-sourced on GitHub </a> and
-        <a href="https://main--now-work.netlify.app/" target="_blank" rel="noppener noreferrer">hosted on Netlify</a>
+        <a href="https://github.com/Kopano-Mo/kopano-projects" target="_blank" rel="noopener noreferrer"> open-sourced on GitHub </a> and
+        <a href="https://the-training-project.netlify.app/" target="_blank" rel="noppener noreferrer">hosted on Netlify</a>
         </footer>
       </div> 
     </div>
