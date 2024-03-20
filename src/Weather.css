@@ -1,7 +1,8 @@
 .Weather {
-    background-color: rgb(165, 172, 240);
+    background-color:linear-gradient(111.5deg,#aeccee 21.9%, #658aee 92.2%);
     font-family: Arial, sans-serif;
     border: 1px solid rgb(157, 167, 223);
+    width:700px;
     padding: 39px;
     border-radius: 4px;
     box-shadow: #aebfec 0 14px 16px 18px ;
